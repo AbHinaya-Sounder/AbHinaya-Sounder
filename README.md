@@ -23,18 +23,16 @@
 - Participated in Django repository issues and bug fixes.
 
 ## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalaiselvi-A&theme=react-dark&hide_border=false&area=true" />
-</p>
+[![Abhinaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbHinaya-Sounder&bg_color=000000&color=a8a8a8&line=44e45e&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💡 Favorite Quote
 "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill
 
 ## 🏅 Coding Challenges
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=kalaiselvia)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AbHinaya22_S?theme=dark&font=Noto%20Sans%20Tagalog)
 
 ## 📄 View My Resume
-[Resume PDF](https://github.com/Kalaiselvi-A/resume.pdf)
+[Resume PDF](https://drive.google.com/file/d/1qR83zWNEIgpfF5Vn_RgCs4Lurs7ILhNk/view?usp=sharing)
 
 ## 🌟 Key Projects
 ### 1. Network Intrusion Detection System (NIDS)
