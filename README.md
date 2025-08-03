@@ -43,6 +43,9 @@
 
 ## 📄 View My Resume
 [Resume PDF](https://drive.google.com/file/d/1qR83zWNEIgpfF5Vn_RgCs4Lurs7ILhNk/view?usp=sharing)
+## 📄 Connect with Me:
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinayasounder/)
+
 
 ## 🌟 Key Projects
 ### 1. Network Intrusion Detection System (NIDS)
