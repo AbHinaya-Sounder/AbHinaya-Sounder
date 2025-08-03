@@ -21,18 +21,16 @@
 - Using Computer Vision, AI, and Speech Synthesis to recognize gestures and convert them into natural language output.
 - Exploring technologies like OpenCV, MediaPipe, Text-to-Speech (TTS) APIs, and possibly Edge AI for real-time implementation.
 ## 🏅 Certifications and Achievements
-- IT Specialist - Python [Certiport](https://www.certiport.com/)
-- CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
-- Star Performer, Full Stack Java Training Program (TNS India Foundation)
-- Participated in MINeD Hackathon 2024, focusing on ResumeRevealer problem statement with team Cyber-X.
+- Data Science Intern [Link](https://drive.google.com/file/d/14-0MPFRTGDX-fmhZ29W2FzUbWiDdJDcV/view?usp=sharing)
+- UI/UX Design Intern [Link](https://drive.google.com/file/d/1G-OQm3hghc5vgBMUe5DUhZY9hJuT8lAv/view?usp=sharing)
+- AI Azure Intern - Microsoft Initiatives Implemented by Edunet Foundations
+- Generative AI Model workshou - IIT Delhi [Link](https://drive.google.com/file/d/1EgdHAmWKdTvO9W5Gtk5F_ywsBqCC-hus/view?usp=sharing)
+- AWS Academy Machine Learning [Link](https://drive.google.com/file/d/1fudoCvq4wLa1hQKpIeXpL0yGkWbPDL-N/view?usp=sharing)
+- Power BI [Link](https://drive.google.com/file/d/1r8GvCuCAQYF9zE4KbU5lObwAoUAzzRNi/view?usp=sharing)
+- Participated in multiple Hackathons & inter-college competitions(SCIMIT)
+  
 
-## 📝 Latest Articles
-- [Staying Updated in Technology](https://www.linkedin.com/in/kalaiselvi-a/)
-- [Core Java 8 - Deep Dive](https://www.linkedin.com/in/kalaiselvi-a/)
 
-## 🌍 Open Source Contributions
-- Contributed to [OpenCV](https://github.com/opencv/opencv) (Facial Recognition Integration)
-- Participated in Django repository issues and bug fixes.
 
 ## 🔥 GitHub Activity
 [![Abhinaya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbHinaya-Sounder&bg_color=000000&color=a8a8a8&line=44e45e&point=d6d6d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -66,15 +64,8 @@ A deep-learning-powered face recognition system for automating attendance.
 - **Live Demo**: [Demo Link](https://github.com/Kalaiselvi-A/FaceRecognition-Attendance)
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 ## 💬 IDE and Tools used
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/> <img width="48" height="48" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 ## 📚 Currently Learning
