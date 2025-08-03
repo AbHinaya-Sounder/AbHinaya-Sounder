@@ -3,11 +3,23 @@
 </h1>
 
 
+## 🔨 About me
+- 🌱 I’m currently learning Deep Learning | Data Science | Cloud Computing
+- 🎓 A curious explorer in Data Science, AI, and Software Engineering
+- 🔭 Currently working on projects involving Edge AI, Driver Safety Systems, and UI/UX Design
+- 🌱 Constantly learning Azure AI, Generative Models, and Front-End Engineering
+- 💡 Passionate about solving real-world problems and building impactful tech
 
 ## 🔨 What I'm Currently Working On
-- Anomaly-based detection for Network Intrusion Detection System (NIDS) using Django and Python.
-- AI-powered recommendation system for an e-commerce platform using TensorFlow.
-
+- 🤖 Hackathon Participant:
+- 🔭 I’m currently working on:
+- An innovation project for Tata Technologies Hackathon 3.2.1: AI-powered Co-Pilot for Smart Vehicles
+- Integrating Edge AI models to enhance driver safety systems
+- Preparing a demo and GitHub repo with clean UI, diagrams, and documentation
+- An assistive AI system for non-verbal individuals that translates signs, gestures, or actions into text or speech, helping them communicate effectively.
+- The core idea is to bridge the communication gap between people who cannot speak and others (especially those who may not understand sign language).
+- Using Computer Vision, AI, and Speech Synthesis to recognize gestures and convert them into natural language output.
+- Exploring technologies like OpenCV, MediaPipe, Text-to-Speech (TTS) APIs, and possibly Edge AI for real-time implementation.
 ## 🏅 Certifications and Achievements
 - IT Specialist - Python [Certiport](https://www.certiport.com/)
 - CLA: Programming Essentials in C [Cisco Networking Academy](https://www.netacad.com/)
